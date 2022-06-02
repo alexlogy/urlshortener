@@ -1,0 +1,16 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "user": "dev",
+    "password": "dev",
+    "dbName": "url_shortener",
+    "maxIdle": 20,
+    "maxOpen": 100
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "dbNum": 0
+  }
+}
